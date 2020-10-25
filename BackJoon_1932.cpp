@@ -6,7 +6,6 @@ int size;
 int arr[501][501];
 int dp[501][501];
 
-
 int main(){
 	cin >> size;
 	for (int i = 0; i<size; i++){
