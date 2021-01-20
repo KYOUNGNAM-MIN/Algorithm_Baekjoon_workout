@@ -3,7 +3,7 @@
 #include <queue>
 #include <algorithm>
 using namespace std;
-
+  
 int n, m, v;
 vector<int> vec[1001];
 int visitD[1001];
